@@ -129,7 +129,9 @@ public class Main {
 
             }
 
-            } while (opcaoMenu != 0);
+        } while (opcaoMenu != 0);
+        
+        sc.close();
 
     }
 
